@@ -311,6 +311,6 @@ These commands draw on:
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+Apache License 2.0 — see [LICENSE](./LICENSE).
 
-Part of the [Continuous Architecture](https://continuous-architecture.org) open community.
+Content is part of the [Continuous Architecture](https://continuous-architecture.org) open community.
