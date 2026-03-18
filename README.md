@@ -2,6 +2,7 @@
 ![Commands](https://img.shields.io/badge/commands-25-1D9E75)
 ![CAF](https://img.shields.io/badge/framework-Continuous%20Architecture-534AB7)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-black)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-compatible-black)
 
 # Continuous Architecture — AI Commands
 
