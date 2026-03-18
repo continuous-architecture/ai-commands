@@ -1,3 +1,8 @@
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![Commands](https://img.shields.io/badge/commands-25-1D9E75)
+![CAF](https://img.shields.io/badge/framework-Continuous%20Architecture-534AB7)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-black)
+
 # Continuous Architecture — AI Commands
 
 AI-assisted commands for architects practising the [Continuous Architecture Framework (CAF)](https://continuous-architecture.org).
